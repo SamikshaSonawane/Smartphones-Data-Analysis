@@ -1,6 +1,7 @@
 ## Smartphone Market Analysis
 ### Introduction
-This project focuses on analyzing the smartphone market to identify key trends and insights. The analysis encompasses various aspects such as brand distribution, pricing trends, popular features, correlation between pricing and customer ratings, and actionable recommendations for smartphone manufacturers.
+The goal is to identify key trends and insights in the smartphone market. This includes understanding the distribution of smartphones across different brands, analysing the pricing trends based on features and specifications, identifying popular features among consumers, evaluating the correlation between pricing and customer ratings, and ultimately deriving actionable recommendations for the market and product development strategies for smartphone manufacturers.
+
 
 ### Business Problem
 The goal of this project is to:
